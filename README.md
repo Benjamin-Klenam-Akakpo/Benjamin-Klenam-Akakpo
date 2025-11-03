@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Klenam</h1>
-<h3 align="center">DevOps</h3>
+<h3 align="center">DevOps Engineer</h3>
 
-- 🔭 I’m interested in **Software Engineering, DevOps, and Data Analytics**
+- 🔭 I’m interested in **DevOps, Data Engineering and Data Analytics**
 
 - 🌱 I’m currently learning **Data Science**
 
